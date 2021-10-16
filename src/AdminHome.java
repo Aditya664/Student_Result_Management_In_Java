@@ -81,6 +81,11 @@ public class AdminHome extends javax.swing.JFrame {
         });
 
         logout.setText("Logout");
+        logout.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                logoutActionPerformed(evt);
+            }
+        });
 
         b3.setFont(new java.awt.Font("Dialog", 1, 14)); // NOI18N
         b3.setText("Registred Student");
@@ -311,6 +316,11 @@ public class AdminHome extends javax.swing.JFrame {
          setVisible(false);
         new registredStudents().setVisible(true);
     }//GEN-LAST:event_b3ActionPerformed
+
+    private void logoutActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_logoutActionPerformed
+        setVisible(false);
+        new index().setVisible(true);
+    }//GEN-LAST:event_logoutActionPerformed
 
     /**
      * @param args the command line arguments
