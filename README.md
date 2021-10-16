@@ -19,7 +19,7 @@ Student Login        |  Result
 
 All Result                    |  Home Page
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Images/Screenshot%20(12).png)  |  ![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Screenshot%20(4).png)
+![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Images/Screenshot%20(12).png)  |  ![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Images/Screenshot%20(4).png)
 
 Admin Login                   |  Add Student
 :-------------------------:|:-------------------------:
