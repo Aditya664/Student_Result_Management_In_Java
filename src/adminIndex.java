@@ -91,6 +91,7 @@ public class adminIndex extends javax.swing.JFrame {
         getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 700, 400));
 
         pack();
+        setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
@@ -103,7 +104,8 @@ public class adminIndex extends javax.swing.JFrame {
         String pass = this.pass.getText();
         
         if(username.equals("Admin") && pass.equals("pass")){
-            
+            setVisible(false);
+            new AdminHome().setVisible(true);
         }else{
             JOptionPane.showMessageDialog(null, "UserName and Password is Incorrect!");
         }
