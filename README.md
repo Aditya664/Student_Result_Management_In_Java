@@ -13,16 +13,16 @@ In this module we have to enter roll number to see user or student result. When 
 In this module we can add new student and add new result. If we want to add an existing roll number or student details then we get error message.we can also see student details and student result.
 
 ## ScreenShots
-Student Login        |  Add New Student
+Student Login        |  Result 
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Screenshot%20(10).png)  |  ![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Screenshot%20(8).png)
+![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Images/Screenshot%20(10).png)  |  ![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Images/Screenshot%20(11).png)
 
-
-Result                   |  Home Page
+All Result                    |  Home Page
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Screenshot%20(11).png)  |  ![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Screenshot%20(4).png)
+![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Images/Screenshot%20(12).png)  |  ![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Screenshot%20(4).png)
 
-
-All Student             | Admin Login
+Admin Login                   |  Add Student
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Screenshot%20(12).png)  |  ![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Screenshot%20(13).png)
+![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Images/Screenshot%20(13).png)  |  ![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Images/Screenshot%20(8).png)
+
+
